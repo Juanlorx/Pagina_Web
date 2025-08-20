@@ -36,14 +36,18 @@
         <li>QUE MAS</li>
         <li>QUE HACE</li>
     </ul>
+    
+    <script src="https://cdn.botpress.cloud/webchat/v3.2/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2025/08/15/12/20250815124051-KWYUD88J.js" defer></script>
+    
 </body>
 
 </html>
 <footer>Microfost Emcarta Todos los derechos reservados-@Juan Esteban Garcia Quintero-3171084</Footer>
 
 
-    <script src="https://cdn.botpress.cloud/webchat/v3.2/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2025/08/15/12/20250815124051-KWYUD88J.js" defer></script>
+ 
 
-https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/08/15/12/20250815124051-3PX9KVPQ.json
+    
+
     
